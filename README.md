@@ -1,3 +1,5 @@
+This project is deprecated and unmaintained. Proceed with caution!
+
 # A permalink for your MIT License
 
 I always forget to add an MIT-license.txt file to my projects, so I
